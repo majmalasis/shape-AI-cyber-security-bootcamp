@@ -1,0 +1,42 @@
+-------------------------------------------------------------
+Weather Stats for - 5  || 23 Jun 2021 | 12:39:42 PM
+-------------------------------------------------------------
+Current temperature is: 29.00 deg C
+Current weather desc  : haze
+Current Humidity      : 79 %
+Current wind speed    : 4.12 kmph
+-------------------------------------------------------------
+Weather Stats for - 6  || 23 Jun 2021 | 12:40:47 PM
+-------------------------------------------------------------
+Current temperature is: 29.00 deg C
+Current weather desc  : haze
+Current Humidity      : 79 %
+Current wind speed    : 4.12 kmph
+-------------------------------------------------------------
+Weather Stats for - 7  || 23 Jun 2021 | 12:41:15 PM
+-------------------------------------------------------------
+Current temperature is: 28.99 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 84 %
+Current wind speed    : 4.41 kmph
+-------------------------------------------------------------
+Weather Stats for - 8  || 23 Jun 2021 | 12:41:23 PM
+-------------------------------------------------------------
+Current temperature is: 28.99 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 84 %
+Current wind speed    : 5.21 kmph
+-------------------------------------------------------------
+Weather Stats for - 9  || 23 Jun 2021 | 12:41:28 PM
+-------------------------------------------------------------
+Current temperature is: 28.99 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 84 %
+Current wind speed    : 5.21 kmph
+-------------------------------------------------------------
+Weather Stats for - 10  || 23 Jun 2021 | 12:41:34 PM
+-------------------------------------------------------------
+Current temperature is: 28.99 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 84 %
+Current wind speed    : 4.41 kmph
